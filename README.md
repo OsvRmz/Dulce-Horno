@@ -49,3 +49,14 @@ entrega.
 
    ```
 3. Ejecutar la aplicación en el emulador, así las request http van a ser capaces de llegar a la API anteriormente ejecutada. 
+
+## SCREENSHOTS
+
+![_](assets/principal.png)
+![_](assets/login.png)
+![_](assets/landing.png)
+![_](assets/cantidades.png)
+![_](assets/pago.png)
+![_](assets/ubicacion.png)
+![_](assets/historial_compras.png)
+![_](assets/detalles.png)

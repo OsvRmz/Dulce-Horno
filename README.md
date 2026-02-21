@@ -24,9 +24,9 @@ entrega.
    ```java
    package com.example.dulcehorno;
 
-import android.app.Application;
+   import android.app.Application;
 
-public class MyApp extends Application {
+   public class MyApp extends Application {
     private static MyApp instance;
 
     // Base URL de tu API
@@ -45,7 +45,7 @@ public class MyApp extends Application {
     public String getBaseUrl() {
         return BASE_URL;
     }
-}
+   }
 
    ```
 3. Ejecutar la aplicación en el emulador, así las request http van a ser capaces de llegar a la API anteriormente ejecutada. 
